@@ -6,4 +6,4 @@
   * userid = "C999999"
   * username = "xiaoneng_test@100.me"
   * password = "xiaoneng_test_123"
-  * CAPTCHA = "111222" # 万能验证码
+  * CAPTCHA = "111222" # 万能验证码,失效的话找效能测试的同学重新要一个
